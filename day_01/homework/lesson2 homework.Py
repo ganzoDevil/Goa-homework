@@ -2,7 +2,7 @@ name="saba"
 surname="ghligvashvili"
 Age=12
 Height=154
-print(str(name)+" "+ str(surname) +" "+ str(Age)+" "+ str(Height) )
+print(name+" "+ surname +" "+ str(Age)+" "+ str(Height) )
 
 
 
