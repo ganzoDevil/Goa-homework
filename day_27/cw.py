@@ -1,0 +1,9 @@
+name="SABA"
+print(name.lower())
+game="standoff"
+print(game.upper())
+name1="saba"
+print(name1.capitalize())
+name2="SABA"
+print(name2.lower())
+print(name2)

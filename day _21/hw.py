@@ -7,7 +7,7 @@ print(names[3])
 
 
 game=["valorant"]
-print(game[0][0:1])
+print(game[0][0:2])
 
 list=["kfc","Macdonald","Burger king","Sushi"]
 print(list[0])

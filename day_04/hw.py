@@ -21,5 +21,9 @@ print(height/age)
 #შეცდომა სიმაღლე არ იყოფა ასაკზე
 print)saba
 #შეცდომა საბა არის ფჩხილებს გარეთ
+print(user_name)
+#შეცდომა ის არის რომ ცვლადი user_name არ არის შექმნილი
+
+
 user_name="saba"
 print(user_name)
